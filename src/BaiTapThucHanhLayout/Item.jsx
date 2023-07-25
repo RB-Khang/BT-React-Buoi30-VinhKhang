@@ -15,7 +15,7 @@ const Item = () => {
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet non assumenda veniam velit quia deserunt.</p>
             </div>
             <div className="cart-footer bg-light text-center py-3 border-top">
-                <a className="btn btn-primary btn-lg" href="#!">Find out more!</a>
+                <a className="btn btn-primary btn-lg" href="#!">Find Out More!</a>
             </div>
 
         </div>
