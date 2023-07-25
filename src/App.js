@@ -1,16 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
 import Header from './buoi30/Header';
-import Banner from './buoi30/Banner';
-import Section from './buoi30/Section';
 import Footer from './buoi30/Footer';
+import Body from './buoi30/Body';
 
 function App() {
   return (
     <div className="App">
       <Header></Header>
-      <Banner></Banner>
-      <Section></Section>
+      <Body></Body>
       <Footer></Footer>
 
     </div>
